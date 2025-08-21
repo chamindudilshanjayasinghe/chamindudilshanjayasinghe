@@ -1,14 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:164197,100:FFD6D6&height=200&section=header&text=Chamindu%20Dilshan&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">Hi 👋, I'm Chamindu Dilshan</h1>
-<h3 align="center">Senior Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
+<h3 align="center">Lead Software Engineer | Backend Specialist | DevOps Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 **Senior Software Engineer** with **7+ years of experience**
+- 💼 **Software Engineering** with **7+ years of experience**
 - 🚀 Skilled in building **scalable APIs, microservices, and distributed systems**
-- 🛠 Strong in **Laravel, NestJS, Node.js, Java Spring Boot, Vue.js, Angular**
+- 🛠 Strong in **Laravel, NestJS, Node.js, Java Spring Boot, Vue.js, ReactJS, NextJS, Angular**
 - ☁️ Experienced with **AWS, Kubernetes, Docker, CI/CD pipelines**
 - 📊 Specialized in **large data processing, system optimization, and real-time syncing**
 - 🌍 Currently based in **Sweden** 🇸🇪  
@@ -18,13 +18,13 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,mysql,mongodb,redis,graphql,docker,kubernetes,aws,git,vue,angular,react" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,mysql,mongodb,redis,graphql,docker,kubernetes,aws,git,vue,angular,react,nextjs" />
 </p>
 
 ---
 
 ### 📌 Professional Experience
-- 🟢 **Associate Tech Lead — Orderchimps (2023 – Present)**  
+- 🟢 **Lead Software Engineer — Happy Chimps (2023 – Present)**  
   Leading backend and microservice projects, team mentoring, and DevOps automation.  
 
 - 🟠 **Senior Software Engineer — OpusXenta (2022 – 2023)**  
@@ -54,17 +54,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaminduonline&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaminduonline&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamindudilshanjayasinghe&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindudilshanjayasinghe&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/jdc91/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/chamindud/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:chamindu.developer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/chaminduonline"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/chamindudilshanjayasinghe"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
