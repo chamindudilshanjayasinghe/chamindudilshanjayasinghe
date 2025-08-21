@@ -6,49 +6,80 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 **Software Engineering** with **7+ years of experience**
-- 🚀 Skilled in building **scalable APIs, microservices, and distributed systems**
-- 🛠 Strong in **Laravel, NestJS, Node.js, Java Spring Boot, Vue.js, ReactJS, NextJS, Angular**
-- ☁️ Experienced with **AWS, Kubernetes, Docker, CI/CD pipelines**
-- 📊 Specialized in **large data processing, system optimization, and real-time syncing**
+- 💼 Currently working at **Happy Chimps** as **Lead Software Engineer**  
+- 🛠 Experienced in **Laravel, NestJS, Node.js, Java Spring Boot, Vue.js, Angular, Next.js, Next Js, GraphQL, Python**  
+- ☁️ Strong background in **AWS, Docker, Kubernetes, Ansible, Apache Kafka, Redis**  
+- 📊 Specialized in **large-scale data processing, microservices, and real-time syncing**  
+- 🏆 9+ years of experience in software engineering across multiple industries  
+- 🎓 **BSc (Hons) in Computing** – Wrexham Glyndŵr University (UK)  
 - 🌍 Currently based in **Sweden** 🇸🇪  
 - ✨ Motto: *"Code is not just what we write — it's what we leave behind for the next engineer."*
 
 ---
 
+### 🏢 Professional Experience
+
+- **Senior Lead Engineer — Happy Chimps**  
+  *2023 – Present*  
+  - Leading backend engineering and API design.  
+  - Driving microservice development with Laravel, NestJS, Next.js.  
+  - Mentoring junior engineers and fostering best practices.  
+  - Managing DevOps pipelines with Kubernetes, Docker, Ansible, and AWS.  
+  - Collaborating with cross-functional teams to deliver scalable restaurant technology solutions.  
+
+- **Senior Software Engineer — OpusXenta**  
+  *2022 – 2023*  
+  Contributed to building and deploying scalable microservice-based applications, ensuring system reliability and performance.  
+
+  **Key Contributions**  
+  - 🚀 Created **highly scalable microservices** with **NestJS**, improving responsiveness and system throughput.  
+  - ⚡ Developed **Redis-integrated Laravel caching**, optimizing API performance and reducing load.  
+  - 🛠️ Designed and maintained **MySQL stored procedures** for large-scale data processing.  
+  - 🐳 Reduced deployment time with **multi-stage Docker builds** and CI/CD pipelines.  
+  - 🔎 Led **code reviews** using Bitbucket plugin, ensuring high-quality merges and maintainable code.  
+  - 🤝 Collaborated across teams to deliver new features and critical fixes effectively.  
+  - 👨‍🏫 Mentored junior developers, improving skill levels and team productivity.  
+  - 📚 Contributed to **technical documentation**, improving onboarding and knowledge sharing.  
+  - 🌱 Stayed updated with latest trends, driving **innovation and modernization** across projects.  
+
+- **Senior Software Engineer — Best Life International Pvt Ltd**  
+  *2016 – 2022*  
+  - Built **MLM, HRMS, POS systems, and finance applications**.  
+  - Managed **large data processing** with MySQL Stored Procedures.  
+  - Developed scalable APIs and integrated GraphQL for efficient queries.  
+  - Used **Docker + Jenkins** for CI/CD pipelines.  
+  - Implemented Redis for caching and Kafka for event-driven architecture.  
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,mysql,mongodb,redis,graphql,docker,kubernetes,aws,git,vue,angular,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,mysql,mongodb,redis,graphql,docker,kubernetes,aws,git,vue,angular,react,ansible,nextjs,python" />
 </p>
 
 ---
 
-### 📌 Professional Experience
-- 🟢 **Lead Software Engineer — Happy Chimps (2023 – Present)**  
-  Leading backend and microservice projects, team mentoring, and DevOps automation.  
-
-- 🟠 **Senior Software Engineer — OpusXenta (2022 – 2023)**  
-  Built and deployed microservice-based apps with **Kubernetes, Docker, AWS**.  
-
-- 🔵 **Senior Software Engineer — Best Life International (2016 – 2022)**  
-  Developed **MLM systems, POS, HRMS, finance systems** with **Java, Laravel, NestJS**.  
-
----
-
 ### 🏆 Achievements
-- 🚀 Designed & implemented **microservice solutions** for high scalability and availability.  
-- 📊 Built **large-scale MLM data processing system** using MySQL Stored Procedures.  
-- ⚡ Optimized performance to **reduce response times & resource utilization**.  
-- 🔄 Real-time **device & data synchronization** using Kafka, Redis, and GraphQL.  
+- 🚀 Designed & deployed **microservices architecture** improving scalability.  
+- 📊 Managed **large-scale MLM data processing** using MySQL Stored Procedures.  
+- ⚡ Optimized systems for **performance, response time, and resource usage**.  
+- 🔄 Real-time **data sync & device communication** with Kafka, Redis, GraphQL.  
+- 🏅 Recognized with **100% Project Completion Award**.  
 
 ---
 
 ### 📂 Featured Projects
-- 🏢 **HRMS (Spring Boot, MySQL, Docker, Jenkins)** — Full HR system with CI/CD.  
-- 💰 **Finance Ledger (Spring Boot, MySQL)** — High-accuracy financial system.  
-- 🛒 **POS Systems (Java Swing, Laravel, Angular)** — Retail POS with scalability.  
-- 📚 **Online Book Store (Angular, NestJS, GraphQL, Kafka)** — Microservice + Event-driven architecture.  
-- 🔗 **Data Sync (NestJS, Kafka, MongoDB, Redis)** — Client-to-SaaS sync platform.  
+- **HRMS (Spring Boot + MySQL + Docker + Jenkins)** — HR system with CI/CD automation.  
+- **Finance Ledger (Spring Boot, MySQL)** — Large-scale ledger & reporting system.  
+- **POS Systems (Java Swing, Laravel, Angular)** — Retail & restaurant POS with scalability.  
+- **Book Store (Angular + NestJS + GraphQL + Kafka)** — Event-driven e-commerce.  
+- **Data Sync (NestJS + Kafka + MongoDB + Redis)** — Client-to-SaaS synchronization platform.  
+
+---
+
+### 💬 Recommendations
+> *“Chamindu is a talented engineer with a strong grasp of backend development and DevOps.  
+He always ensures scalability and performance in his solutions.”* — Colleagues on LinkedIn  
 
 ---
 
