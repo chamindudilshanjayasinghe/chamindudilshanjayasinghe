@@ -78,7 +78,7 @@
 ---
 
 ### 📂 Featured Projects
-- **Restaurant Management System (Laravel 10 + MySQL + Redis + NestJS + Next.js + TailwindCSS + WebSocket + MongoDB + Python)**  
+- **Restaurant Management System (Laravel + MySQL + Redis + NestJS + Next.js + TailwindCSS + WebSocket + MongoDB + Python)**  
   End-to-end platform for managing restaurant operations including orders, reservations, POS, real-time updates, and reporting.  
   Implemented **offline-first architecture, real-time device sync, Redis caching, and WebSocket communication**.  
 
