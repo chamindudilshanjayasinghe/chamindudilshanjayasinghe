@@ -50,6 +50,15 @@
   - Used **Docker + Jenkins** for CI/CD pipelines.  
   - Implemented Redis for caching and Kafka for event-driven architecture.  
 
+- **IT Instructor — Infortec International Asia Campus**  
+  *2013 – 2016* | *Sri Lanka*  
+  - 📚 Delivered IT training programs and supervised classroom activities.  
+  - 📝 Designed syllabi and optimized training programs to improve learning outcomes.  
+  - 👥 Guided students in projects, providing mentorship and technical support.  
+  - 🏫 Strong focus on leadership, communication, and teamwork in an academic setting.  
+  - 🎯 Committed to providing quality education and helping students succeed.  
+
+
 ---
 
 ### 🛠️ Tech Stack
