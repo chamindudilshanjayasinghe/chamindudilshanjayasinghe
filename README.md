@@ -58,7 +58,6 @@
   - 🏫 Strong focus on leadership, communication, and teamwork in an academic setting.  
   - 🎯 Committed to providing quality education and helping students succeed.  
 
-
 ---
 
 ### 🛠️ Tech Stack
