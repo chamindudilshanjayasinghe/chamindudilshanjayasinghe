@@ -78,11 +78,24 @@
 ---
 
 ### 📂 Featured Projects
-- **HRMS (Spring Boot + MySQL + Docker + Jenkins)** — HR system with CI/CD automation.  
-- **Finance Ledger (Spring Boot, MySQL)** — Large-scale ledger & reporting system.  
-- **POS Systems (Java Swing, Laravel, Angular)** — Retail & restaurant POS with scalability.  
-- **Book Store (Angular + NestJS + GraphQL + Kafka)** — Event-driven e-commerce.  
-- **Data Sync (NestJS + Kafka + MongoDB + Redis)** — Client-to-SaaS synchronization platform.  
+- **Restaurant Management System (Laravel 10 + MySQL + Redis + NestJS + Next.js + TailwindCSS + WebSocket + MongoDB + Python)**  
+  End-to-end platform for managing restaurant operations including orders, reservations, POS, real-time updates, and reporting.  
+  Implemented **offline-first architecture, real-time device sync, Redis caching, and WebSocket communication**.  
+
+- **HRMS (Spring Boot + MySQL + Docker + Jenkins)**  
+  HR system with CI/CD automation, employee management, and payroll.  
+
+- **Finance Ledger (Spring Boot, MySQL)**  
+  Large-scale ledger & reporting system for financial transactions.  
+
+- **POS Systems (Java Swing, Laravel, Angular)**  
+  Retail & restaurant POS solutions with offline support and scalability.  
+
+- **Book Store (Angular + NestJS + GraphQL + Kafka)**  
+  Event-driven e-commerce platform with microservice architecture.  
+
+- **Data Sync (NestJS + Kafka + MongoDB + Redis)**  
+  Client-to-SaaS synchronization platform for real-time data transfer.  
 
 ---
 
