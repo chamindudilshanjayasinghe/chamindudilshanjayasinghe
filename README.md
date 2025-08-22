@@ -102,6 +102,7 @@
 
 [![HackerRank: Software Engineer](https://img.shields.io/badge/HackerRank-Software%20Engineer-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/2e35ea487f1e)
 [![HackerRank: SQL (Advanced)](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9eb9250314b5)
+[![HackerRank: SQL (Intermediate)](https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a45841ee61f9)
 [![HackerRank: SQL (Basic)](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a7bbba891180)
 
 ---
