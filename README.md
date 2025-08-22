@@ -100,9 +100,9 @@
 
 ## Certifications
 
-[![HackerRank 9eb9250314b5](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9eb9250314b5)
-[![HackerRank 2e35ea487f1e](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/2e35ea487f1e)
-[![HackerRank a7bbba891180](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a7bbba891180)
+[![HackerRank: Software Engineer](https://img.shields.io/badge/HackerRank-Software%20Engineer-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/2e35ea487f1e)
+[![HackerRank: SQL (Advanced)](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9eb9250314b5)
+[![HackerRank: SQL (Basic)](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a7bbba891180)
 
 ---
 
