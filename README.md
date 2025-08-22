@@ -104,7 +104,7 @@
 [![HackerRank: SQL (Advanced)](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9eb9250314b5)
 [![HackerRank: SQL (Intermediate)](https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a45841ee61f9)
 [![HackerRank: SQL (Basic)](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a7bbba891180)
-[![Frontend Developer (React)](https://img.shields.io/badge/HackerRank-SQL%20(React)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/5bb11137efbc)
+[![Frontend Developer (React)](https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/5bb11137efbc)
 
 ---
 
