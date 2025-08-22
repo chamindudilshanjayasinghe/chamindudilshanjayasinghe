@@ -94,7 +94,15 @@
   Event-driven e-commerce platform with microservice architecture.  
 
 - **Data Sync (NestJS + Kafka + MongoDB + Redis)**  
-  Client-to-SaaS synchronization platform for real-time data transfer.  
+  Client-to-SaaS synchronization platform for real-time data transfer.
+
+---
+
+## Certifications
+
+[![HackerRank 9eb9250314b5](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/9eb9250314b5)
+[![HackerRank 2e35ea487f1e](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/2e35ea487f1e)
+[![HackerRank a7bbba891180](https://img.shields.io/badge/HackerRank-Certificate-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/a7bbba891180)
 
 ---
 
