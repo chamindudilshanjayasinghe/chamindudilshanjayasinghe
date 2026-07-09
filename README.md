@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:164197,100:FFD6D6&height=200&section=header&text=Chamindu%20Dilshan&fontSize=40&fontColor=ffffff)
-
 <h1 align="center">Hi 👋, I'm Chamindu Dilshan</h1>
 <h3 align="center">Senior Fullstack Engineer | Lead Software Engineer | Cloud & DevOps Enthusiast</h3>
 
