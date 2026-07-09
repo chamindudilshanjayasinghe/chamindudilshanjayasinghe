@@ -153,5 +153,3 @@
 <p align="center">
   <i>Reading tech blogs, contributing to open-source, exploring cloud technologies, and finding genuine satisfaction in building automated systems and watching them work seamlessly.</i>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFD6D6,100:164197&height=150&section=footer)
