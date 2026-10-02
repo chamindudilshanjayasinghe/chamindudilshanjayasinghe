@@ -102,9 +102,11 @@
 
 ## 📂 Featured Projects
 
-### 🍽️ Restaurant SaaS Solutions
-**Tech:** Laravel, NestJS, Next.js, MySQL, Redis, TailwindCSS, WebSocket, MongoDB, Python
-> End-to-end scalable platform for managing restaurant operations, including orders, reservations, loyalty programs, POS, real-time updates, and reporting. Implemented offline-first architecture, sub-second real-time device sync, Redis caching, third-party payment gateways (Stripe), physical card machines (Dojo, Ryft), and WebSocket communication.
+### 🍽️ Happy Chimps — Restaurant Operating System
+
+**Tech:** Flutter, Laravel, NestJS, Next.js, MySQL, MongoDB, Redis, Kafka, WebSockets, AWS, Stripe, Dojo, Ryft
+
+> A comprehensive, multi-tenant hospitality platform designed to manage end-to-end restaurant operations. Features a Flutter-based POS supporting till orders, table service, kitchen workflows, and offline-first capabilities with sub-second device synchronisation over WebSockets. Supports click & collect, delivery, mobile table ordering, reservations (including Google bookings), loyalty programmes, deals, gift vouchers, and meal subscriptions. The Next.js Business Hub provides centralised management of menus, staff permissions, inventory, CRM, and real-time reporting across multiple branches. Integrated payment solutions include Stripe and physical card terminals through Dojo and Ryft. Powered by a Laravel core API, NestJS microservices for listings, notifications, and audit change-data capture (CDC), with an AI-powered assistant built using AWS Bedrock.
 
 ### 🏢 HRMS & Enterprise Systems
 **Tech:** Spring Boot, MySQL, Docker, Jenkins
