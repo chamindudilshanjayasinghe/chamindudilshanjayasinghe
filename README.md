@@ -106,7 +106,23 @@
 
 **Tech:** Flutter, Laravel, NestJS, Next.js, MySQL, MongoDB, Redis, Kafka, WebSockets, AWS, Stripe, Dojo, Ryft
 
-> A comprehensive, multi-tenant hospitality platform designed to manage end-to-end restaurant operations. Features a Flutter-based POS supporting till orders, table service, kitchen workflows, and offline-first capabilities with sub-second device synchronisation over WebSockets. Supports click & collect, delivery, mobile table ordering, reservations (including Google bookings), loyalty programmes, deals, gift vouchers, and meal subscriptions. The Next.js Business Hub provides centralised management of menus, staff permissions, inventory, CRM, and real-time reporting across multiple branches. Integrated payment solutions include Stripe and physical card terminals through Dojo and Ryft. Powered by a Laravel core API, NestJS microservices for listings, notifications, and audit change-data capture (CDC), with an AI-powered assistant built using AWS Bedrock.
+> A comprehensive, multi-tenant hospitality ecosystem designed to manage restaurant operations end to end.
+>
+> **Platform Ecosystem:**
+> - 🌐 [Happy Chimps](https://happychimps.com) — Main platform for restaurant discovery and listings.
+> - 🏢 [Business Platform](https://business.happychimps.com) — Restaurant business platform and services.
+> - 📊 [Business Hub](https://businesshub.happychimps.com) — Dedicated management hub for every customer to manage restaurant operations, menus, staff, inventory, CRM, and real-time reporting across multiple branches.
+>
+> **Core Capabilities:**
+> - 📱 **Flutter POS:** Till orders, table service, kitchen workflows, and offline-first operations with sub-second device synchronisation over WebSockets.
+> - 🛵 **Online Ordering:** Click & collect, delivery, and mobile table ordering.
+> - 📅 **Reservations:** Restaurant reservations, including Google bookings integration.
+> - 🎁 **Customer Engagement:** Loyalty programmes, deals, gift vouchers, and meal subscriptions.
+> - 💳 **Payment Integrations:** Stripe and physical card terminals through Dojo and Ryft.
+> - ⚙️ **Backend Architecture:** Laravel core API and NestJS microservices for listings, notifications, and audit change-data capture (CDC).
+> - ☁️ **Cloud & AI:** AWS-powered infrastructure and an AI assistant integrated with Amazon Bedrock.
+>
+> Built as a connected hospitality ecosystem combining POS, online ordering, restaurant management, real-time synchronisation, payments, and AI-powered capabilities.
 
 ### 🏢 HRMS & Enterprise Systems
 **Tech:** Spring Boot, MySQL, Docker, Jenkins
