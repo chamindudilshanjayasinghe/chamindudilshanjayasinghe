@@ -87,12 +87,16 @@
 ---
 
 ## 🏆 Achievements & Milestones
-- 🚀 Designed & deployed **microservices architectures** handling high traffic and improving scalability.  
-- 📈 Successfully orchestrated migrations from monolithic to microservices & modular architectures.
-- ⚡ Optimized legacy systems, significantly slashing processing times (e.g., 4hrs to 45mins for batch tasks).  
-- 🔄 Real-time **data sync & device communication** with Kafka, Redis, GraphQL.
-- 🤖 Integrated Generative AI pipelines and automated workflows, vastly boosting efficiency.
-- 🏅 Recognized with **100% Project Completion Award**.  
+
+- 🚀 **Technology Leadership:** Played a key role in building and transforming a startup's technology ecosystem, leading engineering initiatives from its early stages.
+- 🏗️ **Scalable Architecture:** Designed and implemented microservices and modular architectures to improve system scalability, maintainability, and reliability.
+- 🔄 **System Modernisation:** Led migrations from monolithic legacy systems to modern, distributed architectures.
+- ⚡ **Performance Optimisation:** Optimised legacy processes, reducing batch processing time from **4 hours to 45 minutes**.
+- ☁️ **Cloud & Infrastructure:** Designed, managed, and optimised AWS cloud infrastructure, deployment pipelines, and production environments.
+- 🤖 **AI Innovation:** Championed Generative AI adoption, integrating AI-powered solutions and automated workflows into business operations and software products.
+- 🔗 **Real-Time Systems:** Developed real-time data synchronisation and device communication solutions using Kafka, Redis, and GraphQL.
+- 👨‍💻 **Engineering Leadership:** Led and mentored engineering teams, established technical standards, and encouraged continuous learning and innovation.
+- 🏅 **Professional Recognition:** Received a **100% Project Completion Award** in recognition of project delivery and commitment.
 
 ---
 
